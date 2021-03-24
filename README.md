@@ -1,4 +1,4 @@
 ## Sudoku Solver
 ### Technologies Used
 
-Javascript
+JavaScript
